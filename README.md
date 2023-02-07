@@ -1,6 +1,6 @@
-# feature-selcetion
+# feature-selcetion comparision 
 Feature selection comparison in breath cancer dataset
-Breath cancer kaggel dataset analysis and preprocessing in feature selection and engeniering and modeling with Random Forest.
+analysis and preprocessing in feature selection and engeniering and modeling with Random Forest.
 The model has been test with 6 different feature selection method as comparision of accuracy in machine learning model.
 
 The feature selection methods :
