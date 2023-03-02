@@ -11,7 +11,8 @@ The model has been test with 6 different feature selection method as comparision
 4. recursive_feature_elimination
 5. sequentialfeatureselector_method
 6. model_based_method
-
+<h2>Result</h2>
+![Output result](1.png)
 <h4> As Random Forest has its own way to feature selection by cost function of Entrupy or Gini. For analysis the performances of the feature selections methods
   Random Forest is compatible benchmark as scoring and comparision of feature selection methods.</h4>
   This machin learning has been tested for Supervised Binary classification of breath canser data set.
